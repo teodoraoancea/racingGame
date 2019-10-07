@@ -23,6 +23,7 @@ public class Vehicle {
         fuelLevel -= usedFuel;
 
         System.out.println("Remaining fuel: " + fuelLevel);
-        return distance
+        return distance;
+
     }
 }
