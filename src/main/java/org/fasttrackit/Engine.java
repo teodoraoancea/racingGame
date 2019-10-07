@@ -1,6 +1,6 @@
 package org.fasttrackit;
 
 public class Engine {
-    private String manufacturer;
+    public String manufacturer;
     int capacity;
 }
